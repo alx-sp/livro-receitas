@@ -1,6 +1,11 @@
-#Livro de receitas :☕ 
+# Livro de receitas 👨🏽‍🍳
 
-Olá! Bem vindo ao meu livro de receitas :🍗
- -  Strogonoff de frango
+## Olá! Bem vindo ao meu livro de receitas 
 
-Tentei colocar um emoticon, mas acho que não deu certo. 
+### Lista de Receitas:
+
+<br>
+
+ -  Strogonoff de frango 🍗
+
+
